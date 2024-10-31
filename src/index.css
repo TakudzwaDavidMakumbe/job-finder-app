@@ -28,3 +28,6 @@ li:hover::before{
 .icon{
     cursor: pointer;
 }
+.card{
+    background: goldenrod;
+}
